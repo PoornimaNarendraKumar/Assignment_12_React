@@ -11,7 +11,7 @@ const AboutMe = () => {
         <Row className="justify-content-center mb-4">
           <Col xs={12} md={4} className="text-center">
             <img
-              src="image.jpg" 
+              src="C:\Users\ANAND S M\OneDrive\Desktop\Poornima_Entri\React\Assignment12\image.jpg" 
               alt="John Doe"
               className="img-fluid rounded-circle shadow-lg" 
               style={{ maxWidth: '200px' }}
